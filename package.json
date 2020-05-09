@@ -1,0 +1,23 @@
+{
+  "name": "click-and-drag",
+  "version": "1.0.0",
+  "description": "Click and Drag the number panel for fun, implemented by JavaScript.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bikkimahato/Click-and-Drag-JavaScript.git"
+  },
+  "author": "Bikki Mahato",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bikkimahato/Click-and-Drag-JavaScript/issues"
+  },
+  "homepage": "https://github.com/bikkimahato/Click-and-Drag-JavaScript#readme",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
